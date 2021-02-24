@@ -1,0 +1,152 @@
+@charset "utf-8";
+html {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+    "DejaVu Sans", Verdana, "sans-serif";
+}
+ul {
+  list-style-type: none;
+}
+.logo {
+  margin-left: 46%;
+  width: 10%;
+  float: left;
+}
+nav {
+  float: right;
+  margin-right: 0.5%;
+}
+.headshot {
+  position: relative;
+  width: 100%;
+  margin-top: 1.5%;
+}
+.business {
+  font-size: 10vw;
+  color: white;
+  position: absolute;
+  top: 6vh;
+  width: 54vw;
+  margin-left: 24vw;
+  word-break: break-all;
+  text-align: center;
+}
+.meets {
+  font-size: 10vw;
+  color: #87c0cd;
+  position: absolute;
+  top: 30vh;
+  width: 54vw;
+  margin-left: 24vw;
+  word-break: break-all;
+  text-align: center;
+}
+.tech {
+  font-size: 10vw;
+  color: white;
+  position: absolute;
+  top: 54vh;
+  width: 54vw;
+  margin-left: 24vw;
+  word-break: break-all;
+  text-align: center;
+}
+.fab-fa-linkedin {
+  color: #0077b5;
+}
+@media (max-width: 965px) {
+}
+.hello {
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.interest {
+  margin-top: 2%;
+  font-size: 3vw;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 36%;
+}
+.interestsButtons {
+  margin-left: 15%;
+  display: grid;
+  grid-row-gap: 20px;
+  grid-template-columns: auto auto;
+  justify-items: center;
+}
+.techTitle {
+  position: relative;
+  font-size: 3vw;
+  font-weight: bold;
+  color: #78cdeb;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 5vw;
+  margin-top: 10vh;
+}
+.marketingTitle {
+  position: relative;
+  font-size: 3vw;
+  font-weight: bold;
+  color: #78cdeb;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 15vw;
+  margin-top: 10vh;
+}
+.strategyTitle {
+  position: relative;
+  font-size: 3vw;
+  font-weight: bold;
+  color: #78cdeb;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 15vw;
+  margin-top: 10vh;
+}
+.salesTitle {
+  position: relative;
+  font-size: 3vw;
+  font-weight: bold;
+  color: #78cdeb;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 8vw;
+  margin-top: 10vh;
+}
+.paragraph {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 80%;
+}
+.smallHeadings {
+  color: #78cdeb;
+  margin-left: 9.5vw;
+}
+.techSectionImage {
+  width: 35vw;
+  float: right;
+  margin-right: 5vw;
+  margin-top: -2vh;
+}
+.text {
+  margin-left: 9.5vw;
+  width: 40%;
+}
+.text2 {
+  margin-left: 14vw;
+  width: 30%;
+}
+.text3 {
+  float: right;
+  margin-top: 15vh;
+  margin-right: -28%;
+  width: 30%;
+}
