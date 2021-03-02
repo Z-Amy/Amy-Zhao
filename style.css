@@ -7,7 +7,7 @@ ul {
   list-style-type: none;
 }
 .logo {
-  margin-left: 10%;
+  margin-left: 46%;
   width: 10%;
   float: left;
 }
@@ -87,18 +87,6 @@ nav {
   width: 5vw;
   margin-top: 10vh;
 }
-.productIdeasTitle {
-  float: left;
-  position: relative;
-  font-size: 3vw;
-  font-weight: bold;
-  color: #78cdeb;
-  margin-left: 19.5vw;
-  margin-right: auto;
-  display: block;
-  width: 25vw;
-  margin-top: 10vh;
-}
 .hobbiesTitle {
   position: relative;
   font-size: 3vw;
@@ -144,14 +132,12 @@ nav {
   margin-top: 10vh;
 }
 .paragraph {
-  float: left;
-  margin-left: 10vw;
+  margin-left: auto;
   margin-right: auto;
   display: block;
   width: 80%;
 }
 .smallHeadings {
-  float: left;
   color: #78cdeb;
   margin-left: 9.5vw;
 }
@@ -185,21 +171,4 @@ nav {
 .text4 {
   margin-left: 9.5vw;
   width: 30%;
-}
-nav ul {
-  margin: 30px;
-  list-style: none;
-}
-nav li {
-  display: inline-block;
-  margin-left: 50px;
-  padding-top: 20px;
-}
-nav a {
-  color: black;
-  text-decoration: none;
-}
-hr.dotted {
-  border-top: 3px dotted #78cdeb;
-  width: 80%;
 }
