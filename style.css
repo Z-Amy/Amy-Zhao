@@ -71,11 +71,15 @@ nav {
 }
 .interestsButtons {
   display: grid;
-  grid-row-gap: 20px;
+  grid-row-gap: 5vh;
   grid-template-columns: auto auto;
   justify-items: center;
-  margin-left: 14vw;
+  width: 50%;
+  height: auto;
+  margin-left: 22vw;
+  margin-right: auto;
 }
+
 .techTitle {
   position: relative;
   font-size: 3vw;
