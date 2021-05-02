@@ -150,6 +150,7 @@ nav {
   float: right;
   margin-right: 13vw;
   margin-top: 12.5vh;
+  text-align: right;
 }
 .techSectionImage {
   width: 35vw;
@@ -168,8 +169,8 @@ nav {
 .text3 {
   float: right;
   text-align: right;
-  margin-right: -3.5vw;
-  width: 30%;
+  width: 25%;
+  margin-right: -4vw;
   margin-top: 20vh;
 }
 .text4 {
